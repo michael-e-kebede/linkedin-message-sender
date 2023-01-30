@@ -12,21 +12,21 @@ This repository contains a python script that utilizes the Selenium, Beautiful S
 ## Installation
 1. Clone the repository to your local machine
 
-git clone https://github.com/michael-e-kebede/linkedin-message-sender.git
+  **git clone https://github.com/michael-e-kebede/linkedin-message-sender.git**
 
 2. Navigate to the project directory
 
-cd linkedin-message-sender
+  **cd linkedin-message-sender**
 
 3. Install the required packages
 
-pip install -r requirements.txt
+  **pip install -r requirements.txt**
 
 ## Usage
 1. Update the credentials.txt file with your LinkedIn email and password.
 2. Run the script with the following command
 
-python main.py
+  **python main.py**
 
 3. Follow the prompts in the script to select the LinkedIn profile you wish to message and the message you wish to send.
 
