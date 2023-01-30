@@ -23,7 +23,7 @@ This repository contains a python script that utilizes the Selenium, Beautiful S
   **pip install -r requirements.txt**
 
 ## Usage
-1. Update the credentials.txt file with your LinkedIn email and password.
+1. Update the cred.txt file with your LinkedIn email and password.
 2. Run the script with the following command
 
   **python main.py**
